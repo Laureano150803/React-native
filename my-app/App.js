@@ -1,8 +1,8 @@
-import Intro from "./src/components/Intro";
+import Index from "./src/components/Index";
 
 export default function App() {
   return (
-    <Intro/>
+    <Index/>
   );
 }
 
